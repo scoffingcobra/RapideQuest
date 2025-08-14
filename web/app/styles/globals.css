@@ -1,0 +1,11 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, :root { height: 100%; }
+body { @apply bg-zinc-100; }
+
+.bubble-in { @apply bg-white text-zinc-900 shadow px-3 py-2 rounded-2xl rounded-tl-sm max-w-[75%]; }
+.bubble-out { @apply bg-green-100 text-zinc-900 shadow px-3 py-2 rounded-2xl rounded-tr-sm max-w-[75%] ml-auto; }
+.sticky-header { @apply sticky top-0 z-10 bg-white/80 backdrop-blur border-b; }
