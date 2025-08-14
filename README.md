@@ -1,5 +1,5 @@
 
-# WhatsApp Web Clone (Hardcoded)
+# WhatsApp Web Clone
 
 ## Hardcoded values
 - MongoDB URI: `mongodb+srv://whatsapp_user:Blingbling72@cluster0.hamannr.mongodb.net/whatsapp?retryWrites=true&w=majority&appName=cluster0`
