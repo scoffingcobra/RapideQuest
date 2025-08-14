@@ -32,3 +32,4 @@ Open `http://localhost:3000`
 ## Deploy
 - Backend → Render (Web Service): build `npm install`, start `npm start`.
 - Frontend → Vercel: update `web/app/api.ts` and `web/app/socket.ts` with your Render URL and redeploy.
+# RapideQuest
